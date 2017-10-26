@@ -78,7 +78,7 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/DGVY/DGVY.git
+  repo: https://github.com/DGVY/DGVY.github.io
   branch: master
   # message: Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}
 
