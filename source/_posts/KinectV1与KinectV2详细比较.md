@@ -10,9 +10,6 @@ tags:
 ---
 
 
------
-
-
 # 外观
 
 * Kinect for Windows V1
@@ -94,3 +91,6 @@ KinectV2与V1相比
 # 其它
 
 * Kinect for Windows V1 现已停产。
+* 好吧，KinectV2今天也停产了…… (2017.10.26)
+
+-----
