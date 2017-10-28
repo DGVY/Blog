@@ -1,6 +1,7 @@
 ---
-title: Hexo多终端同步管理
+title: Hexo-多终端同步管理
 date: 2017-10-26 15:34:20
+updated: 2017-10-27 23:55:27
 categories:
 - 前端
 - Hexo
