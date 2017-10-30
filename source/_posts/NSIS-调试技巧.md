@@ -8,7 +8,7 @@ categories:
 # txt输出法
 
 {% codeblock lang:nsis %}
-    GetTempFileName $R0    
+    GetTempFileName $R0
     FileOpen $R1 $R0 w
     # Your Code
     FileWrite $R1 "文件标志 = $TempFileFlag$\r$\n"
